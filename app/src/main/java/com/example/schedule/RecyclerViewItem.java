@@ -1,10 +1,17 @@
 package com.example.schedule;
 
+import android.content.ClipData;
+
 public class RecyclerViewItem {
     private String mImagName;
     private String mMainText;
     private String mSubText;
-    
+    private boolean isSelected;
+
+    public RecyclerViewItem(){
+        this.mMainText = mSubText;
+    }
+
     public void setImgName(String imgName) {
         this.mImagName = imgName;
     }
@@ -24,4 +31,13 @@ public class RecyclerViewItem {
     public String getSubText() {
         return mSubText;
     }
+
+    public boolean isSelected() {
+        return isSelected;
+    }
+
+    public void setSelected(boolean selected) {
+        isSelected = selected;
+    }
+
 }

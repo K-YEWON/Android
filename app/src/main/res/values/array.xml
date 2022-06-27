@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="use_yn">
+        <item>사용</item>
+        <item>미사용</item>
+    </string-array>
+</resources>

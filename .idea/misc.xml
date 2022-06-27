@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Schedule/app/src/main/res/drawable/selector.xml" value="0.44479166666666664" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Schedule/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Schedule/app/src/main/res/layout/activity_recycler_item.xml" value="0.246875" />
       </map>
